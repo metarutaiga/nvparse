@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nvparse", "nvparse.vcproj", "{00C90D0F-8402-467C-B223-F9DE6E40CAA8}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Debug Multithreaded DLL = Debug Multithreaded DLL
+		Release = Release
+		Release Multithreaded DLL = Release Multithreaded DLL
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{00C90D0F-8402-467C-B223-F9DE6E40CAA8}.Debug.ActiveCfg = Debug Multithreaded DLL|Win32
+		{00C90D0F-8402-467C-B223-F9DE6E40CAA8}.Debug.Build.0 = Debug Multithreaded DLL|Win32
+		{00C90D0F-8402-467C-B223-F9DE6E40CAA8}.Debug Multithreaded DLL.ActiveCfg = Debug Multithreaded DLL|Win32
+		{00C90D0F-8402-467C-B223-F9DE6E40CAA8}.Debug Multithreaded DLL.Build.0 = Debug Multithreaded DLL|Win32
+		{00C90D0F-8402-467C-B223-F9DE6E40CAA8}.Release.ActiveCfg = Release Multithreaded DLL|Win32
+		{00C90D0F-8402-467C-B223-F9DE6E40CAA8}.Release.Build.0 = Release Multithreaded DLL|Win32
+		{00C90D0F-8402-467C-B223-F9DE6E40CAA8}.Release Multithreaded DLL.ActiveCfg = Release Multithreaded DLL|Win32
+		{00C90D0F-8402-467C-B223-F9DE6E40CAA8}.Release Multithreaded DLL.Build.0 = Release Multithreaded DLL|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
